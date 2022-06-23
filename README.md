@@ -1,5 +1,9 @@
 <div>
   
+  ### Hey! What’s Up,
+
+  Welcome to my profile
+  
   ### Technologies of interest:
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".Net" alt=".Net" width="35" height="35"/>&nbsp;
@@ -32,7 +36,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexandre-germano&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-germano&layout=compact&langs_count=8&theme=dark&hide_border=true)](https://github.com/alexandre-germano/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-germano&theme=dark&show_icons=true)
 
 ---
 
